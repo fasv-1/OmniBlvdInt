@@ -1,0 +1,4 @@
+/vendor
+/App/Config
+/App/Connections/mailer.php
+.htaccess
